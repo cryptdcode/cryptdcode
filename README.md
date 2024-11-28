@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm passionate about **cryptocurrency**, **blockch
 - Discord: [Crypto Insiders Lounge](https://discord.gg/mDR3avjQ)
 - Discord: [MoveQuest](https://discord.gg/mYf7vAur)
 - Twitter: [@cryptdcode](https://twitter.com/@cryptdinsights)
-- Email: [cryptdcode@domain.com](mailto:Del@movequest.com)
+- Email: [mailto:Del@movequest.com]
 
 ---
 
