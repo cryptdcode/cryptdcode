@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @cryptdcode
+# 👋 Hi, I’m Del
 
 Welcome to my GitHub profile! I'm passionate about **cryptocurrency**, **blockchain**, and **tech innovation**. Let's connect and build something great together!
 
