@@ -53,10 +53,10 @@ I believe in leveraging AI not just as a tool, but as a teammate. I build system
 
 ## 📫 Let's Connect
 
-- 🌐 [Your Website](https://cloudmindsai.com)
+- 🌐 [https://CloudMindsAI.com](https://cloudmindsai.com)
 - 🐦 [Twitter](https://x.com/CloudMindsAI)
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📧 Email: [youremail@example.com](mailto:hello@cloudmindsai.com)
+- 📧 Email: [hello@cloudmindsai.com](mailto:hello@cloudmindsai.com)
 
 ---
 
