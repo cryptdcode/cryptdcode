@@ -2,8 +2,8 @@
 
 🚀 **Full Stack Developer | Web3 Enthusiast | AI Innovator**
 
-![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/YourHandle?style=social)
+![GitHub followers](https://img.shields.io/github/followers/cryptdcode?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/CloudMindsAI?style=social)
 
 🔧 **Skills & Expertise:**
 - **Web Development:** React, Node.js, Express, Tailwind CSS, HTML/CSS
